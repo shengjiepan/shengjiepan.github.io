@@ -22,7 +22,6 @@ a, a:hover, a:visited, a:link, a:active
 
 .sidebar-head a {
   font-size: 30px;
-  text-decoration: none;
   color: #999999;
 }
 
@@ -30,6 +29,10 @@ a, a:hover, a:visited, a:link, a:active
   margin: 15px;
   font-size: 30px;
   color: #999999;
+}
+
+.sidebar-div a {
+  color: inherit;
 }
 
 .sidebar-div .fa {
@@ -46,7 +49,8 @@ a, a:hover, a:visited, a:link, a:active
 }
 
 .sidebar-bottom p {
-  margin: 20px 0;
+  margin: 15px;
+  font-size: 15px;
 }
 
 .img-circle {
