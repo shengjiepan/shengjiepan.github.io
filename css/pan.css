@@ -67,3 +67,7 @@ a, a:hover, a:visited, a:link, a:active
 .row div p {
   margin-top: 50px;
 }
+
+.post-title {
+  font-size: 30px;
+}
